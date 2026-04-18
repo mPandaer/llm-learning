@@ -129,7 +129,7 @@ export default defineConfig({
   lang: 'zh-CN',
   title: 'LLM Learning',
   description: '面向有编程基础开发者的 AI 应用开发与大模型原理开源教程。',
-  base: '/llm-learning/',
+  base: '/',
   cleanUrls: true,
   lastUpdated: true,
   themeConfig: {
